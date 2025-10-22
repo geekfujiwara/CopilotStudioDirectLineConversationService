@@ -1,0 +1,7 @@
+# Direct Line 会話サービスの依存関係
+
+# HTTP リクエスト用ライブラリ
+requests>=2.31.0
+
+# 環境変数管理
+python-dotenv>=1.0.0
