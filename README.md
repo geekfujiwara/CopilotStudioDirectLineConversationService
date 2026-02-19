@@ -21,7 +21,7 @@ Direct Line APIを使用してCopilot Studioとの会話を自動化するPython
 
 ## 📁 ファイル構成
 
-- `directline_conversation_service.py` - メインサービス（完全動作確認済み）
+- `directline_conversation_service.py` - メインサービス
 - `conversation.py` - コマンドライン対応の使用例
 - `.env` - 設定ファイル（Direct Line認証情報）
 - `requirements.txt` - 依存関係
