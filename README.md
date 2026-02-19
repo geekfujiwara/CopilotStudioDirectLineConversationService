@@ -1,13 +1,13 @@
 # Direct Line 会話サービス
 
-Copilot Studio と Direct Line API を使用したPython会話システムの完全実装
+Copilot Studio と Direct Line API を使用したPython会話システムの実装
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 
 ## 🌟 特徴
 
-- ✅ **Microsoft Copilot Studio** との完全統合
+- ✅ **Microsoft Copilot Studio** との統合
 - 🤖 **Direct Line API** を使用したリアルタイム会話
 - 💬 **連続会話モード** サポート
 - 🔄 **自動トークン管理** と再試行機能
